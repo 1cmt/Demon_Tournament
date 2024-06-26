@@ -12,7 +12,8 @@
 ![결과보고서_발표용_6](https://github.com/MilkyQuartz/Demon_Tournament/assets/141620531/9537cf89-f8ee-4757-bf13-9a68b4312c77)
 
 ## ⚔️ 팀 구성 및 역할
-![결과보고서_발표용_7](https://github.com/MilkyQuartz/Demon_Tournament/assets/141620531/71096f5e-a143-4824-959f-b4229a2b10ea)
+<img width="1696" alt="image" src="https://github.com/MilkyQuartz/DemonTournament/assets/84408275/8b4115a5-f1f6-4b0e-b4c4-ca739f51592a">
+
 
 ## ⚔️ 프로젝트 수행절차 및 방법
 ![결과보고서_발표용_8](https://github.com/MilkyQuartz/Demon_Tournament/assets/141620531/7d9bc253-68e3-4016-89f7-d8d711aa723f)
